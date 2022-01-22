@@ -3,7 +3,6 @@ package study;
 import org.junit.jupiter.api.Test;
 
 import static org.assertj.core.api.AssertionsForClassTypes.assertThat;
-import static org.assertj.core.api.AssertionsForClassTypes.assertThatExceptionOfType;
 
 public class CalculatorTest {
     String values = "2 + 3 * 4 / 2";
